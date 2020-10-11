@@ -1,0 +1,13 @@
+### 2020년 2학기 한국외국어대학교 융복합소프트웨어 자료구조
+### 2nd Sememster 2020, Data Structure Course at Software Convergence in HUFS
+---
+ - Language: Python
+ - Contents
+   - 동적 배열(Dynamic Array)
+   - 스택, 큐, 덱(Stack, Queue, Deque)
+   - 연결 리스트(Linked List)
+   - 트리(Tree)
+   - 우선 순위 큐, 힙 정렬(Priority Queue, Heap)
+   - 해시 테이블(Hash Table)
+   - 탐색 트리(Search Tree)
+   - 그래프(Graph)
